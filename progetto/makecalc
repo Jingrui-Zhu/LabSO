@@ -1,2 +1,0 @@
-calcolatore: calcolatore.o
-	gcc calcolatore.c -pthread -lrt -lm -g -o calcolatore
