@@ -1,0 +1,2 @@
+memorizzatore: memorizzatore.o
+	gcc memorizzatore.c -o memorizzatore
